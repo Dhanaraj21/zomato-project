@@ -36,13 +36,15 @@
     position: absolute;
     opacity: 99%;
     margin-top: 1%;
+   
 
 }
 #logo>span{
-    font-size: 95px;
+    font-size: 85px;
     color:red;
     margin-left: 25%;
-    margin-top: 4%;
+    margin-top: 0%;
+    
     position: absolute;
 }
 
@@ -109,4 +111,33 @@
     font-size: 20px;
     letter-spacing: 0px;
 
+}
+.media{
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 113px;
+    border: 1px solid grey;
+}
+.mr-3{
+    width: 160px;
+    height: 140px;
+}
+.mt-0{
+    color: #192F60;
+    font: normal normal 600 18px/27px Poppins;
+    margin-top:10px;
+    margin-left: 14px;
+    width: 86px;
+    height: 25px;
+    padding: 15px;
+}
+
+.p{
+    color: #8C96AB;
+    font: normal normal normal 14px/21px Poppins;
+    margin-top: 10px;
+    margin-left: 12px;
+    width: 188px;
+    height: 62px;
+    padding: 15px;
 }
